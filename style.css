@@ -6,7 +6,12 @@ body {
     padding-top: 50px;
 }
 
-img {
+.img-media {
   width: 100px;
   height: 100px;
+}
+
+.img-pequena {
+  width: 70px;
+  height: 70px;
 }
